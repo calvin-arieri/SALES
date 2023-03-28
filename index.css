@@ -24,8 +24,7 @@
   }
   .topnav {
     overflow: hidden;
-    background-color:transparent;
-    background-blend-mode: color;
+    background-color: #333;
   }
   
   .topnav a {
@@ -48,5 +47,6 @@
     color: white;
   }
   body{
-    background-color: grey;
+    background-repeat: no-repeat;
+
   }
