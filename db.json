@@ -1,0 +1,16 @@
+{
+  "f1Cars": [
+    {
+      "id": 1,
+      "name": "Ferrari",
+      "image": "Schermafbeelding-2022-02-17-om-14.06.42.png",
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "name": "Mercedes Benz",
+      "image": "lewis-hamilton-mercedes-f1-w14.jpg",
+      "likes": 1
+    }
+  ]
+}
